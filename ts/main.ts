@@ -1,4 +1,4 @@
-///<reference path="lib/pixi.d.ts"/>
+///<reference path="lib/pixi.js.d.ts"/>
 
 import text from './kok.js';
 
